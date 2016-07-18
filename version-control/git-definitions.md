@@ -12,4 +12,4 @@
  - A commit is a save point for versions of a project, a point that you can roll a project back to. A good commit message is a cogent description of the commit's changes.
 
 * What is a merge conflict?
- - A merge conflict occurs when two branches make changes to the same content, and needs to be worked out before finish merging.
+ - A merge conflict is a situation where two branches make changes to the same content. To merge successfully, the conflict needs to be dealt with (one change is decided upon).
