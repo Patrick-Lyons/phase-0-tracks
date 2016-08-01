@@ -1,0 +1,18 @@
+.hat {
+	position: static;
+	z-index: 1 
+}
+
+.octo {
+	position: absolute;
+    left: 20px;
+    top: 90px;
+    z-index: -1;
+}
+
+.glasses {
+	position: absolute;
+	left: 62px;
+    top: 190px;
+    z-index: 0
+}
