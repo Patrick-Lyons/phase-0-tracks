@@ -1,3 +1,23 @@
-html {
-	background: green;
+header {
+	background-image: url("Old_american_flag.jpg");
+}
+.column-1 {
+  display:inline-block;
+  width:30%;
+  padding-right: 10%;
+
+  border: 2px solid gray;
+}
+
+.column-2 {
+  display:inline-block;
+  width:30%;
+  padding-left: 10%;
+
+  border: 2px solid gray;
+
+}
+
+section {
+  vertical-align:top;
 }
