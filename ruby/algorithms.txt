@@ -1,0 +1,38 @@
+Release 4.2, Release 0
+
+- Acquire task that necessitates elevator use.
+- Navigate to elevator extrior.
+- Press "Up" or "Down" button, corresponding to objective's floor position relative to current floor.
+- Idle until elevator doors open.
+- Wait at least 5 seconds, and until any and all passengers have either exited or televised their desire to remain in elevator.
+- Enter elevator and depress interior button corresponding to objective's floor position.
+- Move to unoccupied space away from door.
+	- When elevator doors stop at floors not corresponding to objevtive's position, push "Door Close" button every 2 seconds until the doors start to close.
+- When elevator reach's objective's corresponding floor, wait 5 seconds and let passengers exit first if need be
+- Exit elevator doors.
+
+Release 4.2, Release 1
+
+Night Time Bathroom Routine:
+- Walk into bathroom.
+- Close door behind you, holding the door knob turned and easing the door into frame (to reduce noise). 
+- Stand infront of toilet, raise seat(s), and pee.
+- Flush toilet.
+- Wash hands.
+	- Shake hands over sink.
+	- Towel off hands.
+- Grab tooth paste and tooth brush.
+- Apply tooth pase to tooth brush and return tooth paste.
+	- Bring tooth brush head to back lower right mollars. 
+	- Turn on tooth brush.
+	- Brush all quadrants of teeth, 15 seconds each.
+	- Spit out tooth paste.
+	- Rinse tooth brush.
+	- Return tooth brush to cabinet.
+- Splash water on face.
+- Dry hands.
+- Dry face.
+- Open door.
+- Turn off lights.
+- Leave bathroom.
+
