@@ -44,7 +44,8 @@ p test
 test2 = array2.take_while {|number| number < 8}
 p test2
 
-hash2 = {bedroom: 1, kitchen: 0, observatory: 2, attic: 3}
+hash2 = {"bedroom" => 1, "kitchen" => 0, "library" => 1, "parlor" => 1, "garden" => 0, "observatory" => 2, "attic" => 3}
+p hash2
 
 hash2.delete_if {|room, floor| floor > 2}
 p hash2
@@ -52,5 +53,10 @@ p hash2
 hash2.keep_if {|room, floor| floor >= 1}
 p hash2
 
-randomroom = hash2.sample(1)
-p randomroom
+#Ran out of time with Stephen Whitaker for our session. Came back to it the next day but internet connection was deficient, we decided to finish the last 2 points for hash on our own.
+
+puts "For the bedroom, go to floor #{hash2.values_at("bedroom")}"
+p hash2
+
+hash2.delete_if {|room, floor| hash2.values_at(floor = "bedroom")}
+p hash2
