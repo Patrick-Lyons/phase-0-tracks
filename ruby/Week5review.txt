@@ -1,5 +1,23 @@
-Place holder.
+1. Data structures are useful because they will order data into groups that will have built in commands. It "knows things about itself".
 
-Ran into personal issue, will resubmit.
+2. An array is a container for multiple data types, each entry existing as an "item" with a correlating index number.
 
-Need to clear this week to access next GPS.
+3. Example of a data set: a list of items in a room.
+	- bedroom = ["bed", "desk", "mirror"]
+Example 2: list of people in a group.
+	- soccer_team = ["Jared", "Tom", "Sally"]
+
+4. Hash is like an array, but each item has two parts: key and value. Keys will be writting in symbols or other data classes.
+
+5. Example 1: grocery list with quantity.
+	- groceries = {apples: 2, oranges:3, grapes: 12}
+example 2: people and their favorite ice cream flavor.
+	- favorite_flavors = {jared: vanilla, tom: chocolate, sally: strawberry}
+
+6. Iteration is useful to perform a set of actions on multiple and different items.
+
+7. You would use iteration for handling folding laundry.
+
+8. A block is a type of contained code that can be taken by a method.
+
+9. A block parameter is the argument passed into the block. Its value is taken from a method.
